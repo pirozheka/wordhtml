@@ -11,6 +11,9 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --accent: #FF6500;
+    --darkblue: #0B192C;
+    --lightblue: #0B192C;
   }
 }
 
